@@ -1,6 +1,6 @@
 [Flatpak Repo]
 Title=Folicode
-Url=https://github.com/froli-code/flatpak-repo/tree/main/repo
+Url=https://froli-code.github.io/flatpak-repo/repo
 Homepage=https://github.com/froli-code/flatpak-repo
 Comment=This is the Frolicode Flatpak repo
 Description=Use this repo for accessing Frolicode apps over flatpak
